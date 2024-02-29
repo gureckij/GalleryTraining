@@ -54,6 +54,11 @@ body {
     display: block;
 }
 
+.preview-list img {
+    /* Установка блочного типа для изображения */
+    display: block;
+}
+
 .preview-list a::before {
     /* Позиционирование псевдоэлемента */
     content: '';
