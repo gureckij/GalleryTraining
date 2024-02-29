@@ -1,9 +1,19 @@
 body {
     font-family: 'Raleway', sans-serif;
     color: #333333;
+    margin: 0;
+}
+
+.gallery {
+    width: 980px;
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .gallery h2 {
     font-size: 42px;
     line-height: 50px;
+    margin-top: 0;
+    margin-bottom: 45px;
 }
