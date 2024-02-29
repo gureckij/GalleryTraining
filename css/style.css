@@ -49,6 +49,9 @@ body {
 .preview-list a {
     /* Установка относительного позиционироания */
     position: relative;
+
+    /* Установка блочного типа для ссылки */
+    display: block;
 }
 
 .preview-list a::before {
