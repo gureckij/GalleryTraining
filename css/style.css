@@ -20,4 +20,5 @@ body {
 
 .active-photo {
     display: block;
+    margin-bottom: 20px;
 }
