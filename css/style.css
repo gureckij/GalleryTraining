@@ -22,3 +22,10 @@ body {
     display: block;
     margin-bottom: 20px;
 }
+
+.preview-list {
+    /* Сброс стилей списка */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
