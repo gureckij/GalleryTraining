@@ -50,3 +50,9 @@ body {
     /* Установка относительного позиционироания */
     position: relative;
 }
+
+.preview-list a::before {
+    /* Позиционирование псевдоэлемента */
+    content: '';
+    position: absolute;
+}
