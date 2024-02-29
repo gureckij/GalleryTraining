@@ -40,3 +40,8 @@ body {
     /* Добавление отступов */
     margin-right: 20px;
 }
+
+.preview-list li:last-child {
+    /* Обнуление правого отступа */
+    margin-right: 0;
+}
